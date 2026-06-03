@@ -11,4 +11,4 @@
 - `forEach`, `map`, `filter` 및 전개 연산자(`...`) 활용 상태 관리
 - 기본 브라우저 동작 제어를 위한 `preventDefault()` 적용
 
-C:\김효민\index.js C:\김효민\index.html
+
