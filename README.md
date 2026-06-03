@@ -12,3 +12,6 @@
 - 기본 브라우저 동작 제어를 위한 `preventDefault()` 적용
 
 
+[index.js](https://github.com/user-attachments/files/28542772/index.js)
+
+[index.html](https://github.com/user-attachments/files/28542771/index.html)
